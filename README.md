@@ -54,5 +54,5 @@ Gosto de entender como um sistema quebra pra saber como defender melhor. Constru
 ### Contato
 
 <p align="left">
-<a href="www.linkedin.com/in/saravitóriabispodesouza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saravit%C3%B3riabispodesouza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
