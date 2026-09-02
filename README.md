@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1679A7&height=180&section=header&text=Sara%20Vitoria&fontSize=36&fontColor=ffffff&desc=Seguranca%20da%20Informacao%20%7C%20IAM%20%26%20Ofensiva&descAlignY=55&descSize=16" width="100%"/>
-
 <a href="https://github.com/Saravtb">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=560&lines=Identidade+e+Acesso+(IAM);Seguranca+Ofensiva+%26+Pentest;AWS+%7C+Docker+%7C+Linux;OAuth2+%2F+OIDC+%2F+JWT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=560&lines=Sara+Vitoria;Identidade+e+Acesso+(IAM);Seguranca+Ofensiva+%26+Pentest;AWS+%7C+Docker+%7C+Linux" alt="Typing SVG" />
 </a>
 
 </div>
@@ -53,25 +51,8 @@ Gosto de entender como um sistema quebra pra saber como defender melhor. Constru
 
 <br>
 
-### Estatisticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saravtb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravtb&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Saravtb&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br>
-
 ### Contato
 
 <p align="left">
 <a href="www.linkedin.com/in/saravitóriabispodesouza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1679A7,100:0A66C2&height=100&section=footer" width="100%"/>
