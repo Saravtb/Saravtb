@@ -4,28 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=560&lines=Sara+Vitoria;Identidade+e+Acesso+(IAM);Seguranca+Ofensiva+%26+Pentest;AWS+%7C+Docker+%7C+Linux" alt="Typing SVG" />
 </a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Saravtb&label=Visitantes&color=0A66C2&style=flat" alt="Visitor Badge" />
-
 </div>
 
 <br>
 
-## Sobre mim
-
 Estudante de Seguranca Cibernetica no SENAI-SP, com foco em **IAM (Identity and Access Management)** e **seguranca ofensiva**.
 
-Gosto de entender como um sistema quebra pra saber como defender melhor. Construo laboratorios proprios pra testar falhas reais, simulo ataques em ambientes controlados e documento tudo em relatorio tecnico — do reconhecimento a remediacao.
-
-- 🔐 Foco atual: autenticacao, autorizacao e gerenciamento de identidade (OAuth2, OIDC, JWT)
-- 🧪 Sempre montando labs novos pra praticar tecnicas de ataque e defesa
-- 📄 Documento cada achado como se fosse um relatorio de pentest real
-- 🌱 Aprendendo continuamente sobre cloud security (AWS) e hardening de infraestrutura
+Gosto de entender como um sistema quebra pra saber como defender melhor. Construo laboratorios proprios pra testar falhas reais e documento tudo em relatorio tecnico.
 
 <br>
-
-## Stack e Ferramentas
 
 ### Identidade e Acesso
 
@@ -64,20 +51,7 @@ Gosto de entender como um sistema quebra pra saber como defender melhor. Constru
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saravtb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Saravtb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravtb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<br>
-
-## Contato
+### Contato
 
 <p align="left">
 <a href="https://www.linkedin.com/in/saravit%C3%B3riabispodesouza/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
